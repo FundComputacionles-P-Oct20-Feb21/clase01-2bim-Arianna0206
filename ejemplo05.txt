@@ -11,9 +11,21 @@
 10. notasEstudiantes[5] <-- 10
 11. notasEstudiantes[6] <-- 8
 12. Para(indice<--0, indice<7, 1) haga
-13.     suma <-- suma + notasEstudiantes[indice]
+13.     suma <-- suma + notasEstudiantes[indice] // suma + notaEstudiantes[0] //0 + 9// 9
+                                                // suma + notaEstudiantes[1] //9 + 10// 19
+                                               // suma + notaEstudiantes[2] // 19+7 // 26
+                                              // suma + notaEstudiantes[3] // 26+8 // 34
+                                             // suma + notaEstudiantes[4] // 34+9 // 43
+                                            // suma + notaEstudiantes[5] // 43+10 // 53
+                                           // suma + notaEstudiantes[6] // 53+8 // 61 
 14. Fin_Para 
-15. Escribir suma
+15. Escribir suma // 9
+                  // 19
+                 // 26
+                // 34
+                // 43
+               // 53
+                // 61
 16. Fin
 
 
